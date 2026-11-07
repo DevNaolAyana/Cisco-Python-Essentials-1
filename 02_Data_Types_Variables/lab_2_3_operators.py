@@ -27,3 +27,6 @@ print("Left Binding:", 9 % 6 % 2)
 print("Right Binding:", 2 ** 2 ** 3)
 print("Unary vs Power:", -3 ** 2)
 print("Complex:", (5 * ((25 % 13) + 100) / (2 * 13)) // 2)
+
+print((-2 / 4), (2 / 4), (2 // 4), (-2 // 4))
+
