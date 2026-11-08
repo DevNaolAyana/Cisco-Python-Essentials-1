@@ -14,6 +14,8 @@ print("Concatenation:", "ab" + "ba")
 print("Replication:", "James" * 3)
 print("Zero replication:", "Hello" * 0) # Outputs nothing
 
+
+
 # 2.6.8 str() conversion
 age = 21
 # print("I am " + age + " years old.") # Uncomment to see TypeError
