@@ -6,6 +6,8 @@ dura = int(input("Event duration (minutes): "))
 # The % 60 ensures the minutes stay within 0-59
 end_mins = (mins + dura) % 60
 
+
+
 # 2. Calculate how many extra hours we gained from the minutes
 extra_hours = (mins + dura) // 60
 
