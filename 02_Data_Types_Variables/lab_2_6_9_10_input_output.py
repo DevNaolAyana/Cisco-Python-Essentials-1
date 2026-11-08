@@ -8,6 +8,10 @@ print("Subtraction:", a - b)
 print("Multiplication:", a * b)
 print("Division:", a / b) # Note: will crash if b is 0
 
+
+
+
+
 print("\n--- LAB 2.6.10: Operators and expressions ---")
 # The expression is: 1 / (x + 1 / (x + 1 / (x + 1 / x)))
 x = float(input("Enter a value for x: "))
