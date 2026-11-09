@@ -8,4 +8,5 @@ client_name = 'John Doe'  # Creates a string
 print(var, account_balance, client_name) 
 
 var = "3.8.5"
-print("Python version: " + var) 
+print("Python version: " + var)  
+# Summary: This lab covered variable creation and reassignment. 
