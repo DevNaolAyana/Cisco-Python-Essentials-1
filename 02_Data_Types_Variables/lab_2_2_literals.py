@@ -19,4 +19,5 @@ print(True > False) # True (1 > 0)
 print(True < False) # False (1 < 0)
 
 # 2.2.6 Lab
-print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
+print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"") 
+# Summary: This lab practiced integers, floats, and strings. 
