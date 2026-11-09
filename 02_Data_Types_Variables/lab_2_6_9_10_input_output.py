@@ -19,4 +19,5 @@ x = float(input("Enter a value for x: "))
 # It's best to use parentheses to ensure the order of operations is correct
 y = 1 / (x + 1 / (x + 1 / (x + 1 / x)))
 
-print("y =", y)
+print("y =", y) 
+# Summary: This lab evaluated a nested fractional expression. 
