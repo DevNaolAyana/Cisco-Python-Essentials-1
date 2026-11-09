@@ -30,3 +30,5 @@ print("Complex:", (5 * ((25 % 13) + 100) / (2 * 13)) // 2)
 
 print((-2 / 4), (2 / 4), (2 // 4), (-2 // 4))
 
+ 
+# Summary: This lab tested math operators and left/right binding. 
