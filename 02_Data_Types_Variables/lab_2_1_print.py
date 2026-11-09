@@ -16,3 +16,5 @@ print("Naol")
 print('Single quotes work too')
 print("Same line"); print("Another line")
 print("Multiple", "arguments", "here")
+ 
+# Summary: This lab tested basic print statements and formatting. 
