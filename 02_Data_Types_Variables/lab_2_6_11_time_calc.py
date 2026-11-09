@@ -16,4 +16,5 @@ extra_hours = (mins + dura) // 60
 end_hours = (hour + extra_hours) % 24
 
 # 4. Print the result
-print(end_hours, ":", end_mins, sep="")
+print(end_hours, ":", end_mins, sep="") 
+# Summary: This lab calculated end times using modulo. 
