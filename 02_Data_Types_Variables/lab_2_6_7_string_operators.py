@@ -26,4 +26,5 @@ print("I am " + str(age) + " years old.")
 # Drawing a simple rectangle using string operators
 print("+" + "-" * 10 + "+")
 print("|" + " " * 10 + "|")
-print("+" + "-" * 10 + "+")
+print("+" + "-" * 10 + "+") 
+# Summary: This lab practiced string concatenation and multiplication. 
