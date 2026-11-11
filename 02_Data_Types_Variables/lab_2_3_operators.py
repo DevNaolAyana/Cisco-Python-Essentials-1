@@ -32,3 +32,4 @@ print((-2 / 4), (2 / 4), (2 // 4), (-2 // 4))
 
  
 # Summary: This lab tested math operators and left/right binding. 
+# Note: Pay attention to operator precedence and associativity. 
