@@ -16,3 +16,4 @@ print("String #2")
 
 # Using Ctrl + / in VS Code is the fastest way to comment out blocks. 
 # Summary: This lab explored comments and code disabling. 
+# Note: Comments are useful for temporarily disabling code. 
