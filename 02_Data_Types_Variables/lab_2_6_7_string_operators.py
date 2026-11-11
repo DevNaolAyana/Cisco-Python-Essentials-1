@@ -28,3 +28,4 @@ print("+" + "-" * 10 + "+")
 print("|" + " " * 10 + "|")
 print("+" + "-" * 10 + "+") 
 # Summary: This lab practiced string concatenation and multiplication. 
+# Note: Strings can be multiplied and concatenated easily. 
