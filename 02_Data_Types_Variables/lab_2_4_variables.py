@@ -10,3 +10,4 @@ print(var, account_balance, client_name)
 var = "3.8.5"
 print("Python version: " + var)  
 # Summary: This lab covered variable creation and reassignment. 
+# Note: Variables can be reassigned to different types in Python. 
