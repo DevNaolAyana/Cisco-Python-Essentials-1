@@ -21,3 +21,4 @@ print(True < False) # False (1 < 0)
 # 2.2.6 Lab
 print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"") 
 # Summary: This lab practiced integers, floats, and strings. 
+# Note: Remember the difference between int, float and string literals. 
