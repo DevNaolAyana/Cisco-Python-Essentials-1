@@ -21,3 +21,4 @@ y = 1 / (x + 1 / (x + 1 / (x + 1 / x)))
 
 print("y =", y) 
 # Summary: This lab evaluated a nested fractional expression. 
+# Note: Break complex expressions into smaller parts if needed. 
