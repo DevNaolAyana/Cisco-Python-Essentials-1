@@ -28,3 +28,4 @@ print(arrow * 4)
 # print("    *)  # SyntaxError: unterminated string literal
 # Print("Hello") # NameError: name 'Print' is not defined 
 # Summary: This lab used sep and end to format output. 
+# Note: Practice using sep and end parameters together. 
