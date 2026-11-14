@@ -41,3 +41,4 @@ y = 3 * (x ** 3) - 2 * (x ** 2) + 3 * x - 1
 print("y =", y) 
 # Summary: This lab tested shortcut operators and expressions. 
 # Note: Shortcut operators make code shorter and cleaner. 
+# Extra: Shortcut operators help reduce repetitive code. 
