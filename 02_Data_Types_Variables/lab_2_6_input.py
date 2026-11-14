@@ -30,4 +30,4 @@ x = int(input("Enter a number: ")) # The user enters 2
 print(x * "5")
 
 x = input("Enter a number: ") # The user enters 2
-print(type(x))
+print(type(x))# Extra: Remember to handle invalid user input carefully. 
