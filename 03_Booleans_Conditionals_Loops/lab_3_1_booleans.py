@@ -30,4 +30,4 @@ if tickets:
 elif table:
     print("Go to lunch")
 else:
-    print("Play chess at home")
+    print("Play chess at home")# Extra: Boolean values are the foundation of decision making. 
