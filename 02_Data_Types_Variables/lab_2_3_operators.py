@@ -34,3 +34,4 @@ print((-2 / 4), (2 / 4), (2 // 4), (-2 // 4))
 # Summary: This lab tested math operators and left/right binding. 
 # Note: Pay attention to operator precedence and associativity. 
 # Extra: Always check operator precedence when writing expressions. 
+# Today: Double-check operator precedence in complex expressions. 
