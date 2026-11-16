@@ -30,3 +30,4 @@ print(arrow * 4)
 # Summary: This lab used sep and end to format output. 
 # Note: Practice using sep and end parameters together. 
 # Extra: Experiment with different sep and end combinations. 
+# Today: Practice combining sep and end in different ways. 
