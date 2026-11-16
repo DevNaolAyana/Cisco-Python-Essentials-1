@@ -18,3 +18,4 @@ print("String #2")
 # Summary: This lab explored comments and code disabling. 
 # Note: Comments are useful for temporarily disabling code. 
 # Extra: Use comments to explain why, not just what the code does. 
+# Today: Write comments that explain the purpose of the code. 
