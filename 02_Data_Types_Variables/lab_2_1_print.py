@@ -20,3 +20,4 @@ print("Multiple", "arguments", "here")
 # Summary: This lab tested basic print statements and formatting. 
 # Note: Review print() formatting options for cleaner output. 
 # Extra: Keep practicing clean and readable print statements. 
+# Today: Focus on writing clean and consistent print statements. 
