@@ -30,3 +30,4 @@ print("+" + "-" * 10 + "+")
 # Summary: This lab practiced string concatenation and multiplication. 
 # Note: Strings can be multiplied and concatenated easily. 
 # Extra: String multiplication is useful for creating repeated patterns. 
+# Today: Explore more ways to use string concatenation and repetition. 
