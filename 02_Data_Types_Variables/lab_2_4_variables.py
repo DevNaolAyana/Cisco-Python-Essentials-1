@@ -12,3 +12,4 @@ print("Python version: " + var)
 # Summary: This lab covered variable creation and reassignment. 
 # Note: Variables can be reassigned to different types in Python. 
 # Extra: Good variable names make code much easier to read. 
+# Today: Choose meaningful variable names for better readability. 
