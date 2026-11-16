@@ -42,3 +42,4 @@ print("y =", y)
 # Summary: This lab tested shortcut operators and expressions. 
 # Note: Shortcut operators make code shorter and cleaner. 
 # Extra: Shortcut operators help reduce repetitive code. 
+# Today: Use shortcut operators to make code more concise. 
