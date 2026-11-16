@@ -20,3 +20,4 @@ print(end_hours, ":", end_mins, sep="")
 # Summary: This lab calculated end times using modulo. 
 # Note: Use modulo carefully when calculating time overflow. 
 # Extra: Test edge cases when working with time calculations. 
+# Today: Test time calculations with different edge cases. 
