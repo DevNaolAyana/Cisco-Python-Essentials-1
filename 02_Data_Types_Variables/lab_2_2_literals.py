@@ -23,3 +23,4 @@ print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
 # Summary: This lab practiced integers, floats, and strings. 
 # Note: Remember the difference between int, float and string literals. 
 # Extra: Practice converting between different literal types. 
+# Today: Review the differences between numeric and string literals. 
