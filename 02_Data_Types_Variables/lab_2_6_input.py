@@ -31,3 +31,4 @@ print(x * "5")
 
 x = input("Enter a number: ") # The user enters 2
 print(type(x))# Extra: Remember to handle invalid user input carefully. 
+# Today: Always validate and convert user input properly. 
