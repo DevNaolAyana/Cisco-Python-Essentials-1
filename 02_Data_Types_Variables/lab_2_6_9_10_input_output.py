@@ -23,3 +23,4 @@ print("y =", y)
 # Summary: This lab evaluated a nested fractional expression. 
 # Note: Break complex expressions into smaller parts if needed. 
 # Extra: Break long expressions into multiple lines for clarity. 
+# Today: Simplify complex expressions step by step. 
